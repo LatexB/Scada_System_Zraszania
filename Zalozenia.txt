@@ -1,0 +1,27 @@
+Widok głównego programu:
+-Wizualizacja całego ogrodu trawnika i rabat roślinnych
+-Podgląd statystyk(wilgotność, co aktualnie jest podlewane, [poziom wody w zbiorniku i przepustowość(oddzielnym VI)], opady deszczu)
+-Przyciski do konfiguracji, które otwierają nowe VI
+
+Trawnik, ogródek warzywny, rabaty roślinne:
+-Liczba zraszaczy
+-Ilość m^2
+-Czas podlewania
+-Badanie wilgotności i opadów i nasłonecznienie
+-Alarmy: -Pusty zbiornik
+	   -Wodociąg niedostępny i brak wody w zbiorniku
+	   -Opady deszczu - wyłączenie podlewania
+	   -Zepsuty zraszacz
+	   -Niedziałający czujnik
+Tryby pracy:
+	-Automatyczny - jak za sucho to włączy podlewanie samo <30% wilgotności
+	-Harmonogram - Ustawione czasy pracy
+	-Ręczny - Operator włącza + komunikaty o załączeniu
+	-Czuwanie i czeka na wybór operacji z komunikatem
+Wyświetlanie daty ostatniego podlewania
+Odczyt czujników
+Awaryjny przycisk wyłączenia podlewania
+Zapis alarmów + komentarz
+-Symulacja czasu pętla z delayem 
+
+
