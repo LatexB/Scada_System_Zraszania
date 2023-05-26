@@ -22,6 +22,6 @@ Wyświetlanie daty ostatniego podlewania
 Odczyt czujników
 Awaryjny przycisk wyłączenia podlewania
 Zapis alarmów + komentarz
--Symulacja czasu pętla z delayem 
+-Symulacja czasu pętla z delayem
 
 
