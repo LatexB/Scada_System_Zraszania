@@ -1,1 +1,8 @@
-Data: 1.1.1904 1:22 Niski poziom zbiornika
+Data: 1.1.1904 1:0 Niedzialajacy czujnik temperaturyData: 1.1.1904 1:0 Niedzialajacy czujnik wilgotnosciData: 1.1.1904 1:0 Niedzialajacy czujnik wilgotnosciData: 1.1.1904 1:0 Niedzialajacy czujnik temperaturyData: 1.1.1904 1:0 Niedzialajacy czujnik wilgotnosci 
+Data: 1.1.1904 1:0 Niedzialajacy czujnik wilgotnosci 
+Data: 1.1.1904 1:0 NiedziaBlajacy zraszacz 
+Data: 1.1.1904 1:0 NiedziaBlajacy zraszacz 
+Data: 1.1.1904 1:0 Niedzialajacy zraszacz 
+Data: 1.1.1904 1:0 Niedzialajacy czujnik wilgotnosci 
+Data: 1.1.1904 1:0 Niedzialajacy czujnik temperatury 
+Data: 1.1.1904 1:0 Niedzialajacy czujnik temperatury 
